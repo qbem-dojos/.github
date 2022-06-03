@@ -1,11 +1,10 @@
-## Hi there 👋
+## Olá 👋
 
+🙋‍♀️ **Uma breve introdução** 
+Qbem Dojos é o perfil para armazenamento dos produtos realizados pelo Dojo da Qbem, para treinarmos computação de primeira linha.
 
+🌈 **Diretrizes de contribuição**
+Todos os projetos e recursos usados aqui devem ser open source e de live acesso para que outros desenvolvedores possam aprender com a gente.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+👩‍💻 **Recursos úteis**
+Todas as documentações dos projetos aqui feito, estarão disponíveis na pasta **docs** dos repositórios.

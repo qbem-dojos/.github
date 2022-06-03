@@ -4,4 +4,4 @@ Qbem Dojos é o perfil para armazenamento dos produtos realizados pelo Dojo da Q
 
 Todas as documentações dos projetos aqui feito, estarão disponíveis na pasta **docs** dos repositórios. 
 
-[Kanban do Dojo](https://github.com/orgs/qbem-dojos/projects/1)
+- [Kanban do Dojo](https://github.com/orgs/qbem-dojos/projects/1)

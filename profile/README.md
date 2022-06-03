@@ -1,4 +1,4 @@
-## Uma breve introdução 
+## Uma breve introdução :japanese_goblin:
 
 Qbem Dojos é o perfil para armazenamento dos produtos realizados pelo Dojo da Qbem, para treinarmos computação de primeira linha. Todos os projetos e recursos usados aqui devem ser open source e de live acesso para que outros desenvolvedores possam aprender com a gente.
 
